@@ -303,7 +303,10 @@ button{
   text-decoration:underline;
   text-decoration-thickness:0.3px;
 }
-
+a{
+  color: #71aaff;
+  opacity: 75%;
+}
 .alert{
   box-shadow: 0px 5px 20px rgba(255, 0, 0, 0.7);
 }
